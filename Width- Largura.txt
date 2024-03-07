@@ -1,0 +1,14 @@
+Width- Largura
+ A propriedade CSS width determina a largura da área de conteúdo de um elemento. A área de conteúdo fica dentro do preenchimento, da borda, e da margem de um elemento.
+
+Heigth- Altura da Área
+ A propriedade height do CSS determina a altura da área do conteúdo de um elemento
+
+Font-size- Tamanho da fonte
+ A propriedade font-size no CSS estabelece o tamanho da fonte. Esta propriedade também é usada para computaro tamanho de em , ex , e outras unidades <length> (en-US) relativas
+
+Border- Borda
+ O atributo border é um shortcut para definir diversas propriedades de borda ao mesmo tempo
+
+Margin- Movimento de compra
+ Margin trading é uma forma de fazer movimentações de compra e venda que usa como base fundos fornecidos por terceiros.
